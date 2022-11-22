@@ -44,7 +44,6 @@ $pageJson = '{
 
 
 <p> For Example: </p>
-<p> 
 
 <code>
 
@@ -83,7 +82,6 @@ echo json_encode($input);
 </code>
 
 
-</p>
 
 
 
