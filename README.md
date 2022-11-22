@@ -1,2 +1,2 @@
 # json-validater
-php json validater
+Json Validater in PHP.
