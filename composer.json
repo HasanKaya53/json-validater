@@ -1,7 +1,6 @@
 {
     "name": "hasankaya/json-validater",
     "description": "json validater in php",
-    "type": "composer-plugin",
     "license": "mit",
     "autoload": {
         "psr-4": {
