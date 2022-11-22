@@ -1,0 +1,19 @@
+{
+    "name": "hasankaya/json-validater",
+    "description": "json validater in php",
+    "type": "composer-plugin",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Hasankaya\\JsonValidater\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hasan Kaya",
+            "email": "hasankayaaa53@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
